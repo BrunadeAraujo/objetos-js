@@ -12,4 +12,4 @@ const estudante = {
     numero: '12',
     complemento: 'Casa 07'          
  }
- console.log(estudante.endereco.rua);
+ console.log(estudante.endereco.rua); b

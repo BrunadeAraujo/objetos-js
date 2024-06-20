@@ -24,3 +24,4 @@ const estudante = {
         console.log(texto);
     }
    }
+   

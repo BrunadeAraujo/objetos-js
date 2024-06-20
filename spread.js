@@ -29,6 +29,6 @@ const dadosEnvio = {
     destinario: estudante.nome,
     // endereco: estudante.enderecos[0]
     ...estudante.enderecos[0] // Mais organizado
-}
+} 
 
 console.log(dadosEnvio);
